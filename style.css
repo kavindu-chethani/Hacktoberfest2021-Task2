@@ -1,8 +1,31 @@
 h1{
     text-align: center;
-    color:red;
+    color:purple;
 }
 
 p{
-    font-size: 10px;
+    font-size: 20px;
+}
+
+#name{
+    color:blue;
+}
+ul{
+    list-style-type: none;
+}
+li {
+        display: inline;
+ }
+
+#country{
+    font-style: italic;
+    
+}
+ html{
+background-color: rosybrown;
+}
+.center{
+   
+        text-align: center;
+    
 }
