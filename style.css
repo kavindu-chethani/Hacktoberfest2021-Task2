@@ -18,14 +18,34 @@ li {
  }
 
 #country{
-    font-style: italic;
+       font-style: italic;
     
 }
- html{
+html{
 background-color: rosybrown;
 }
-.center{
-   
-        text-align: center;
-    
+center{
+ text-align: center;
 }
+
+#le1{
+    color: yellow;
+}
+#le3{
+   color: maroon;
+}
+#le4{
+    color: orange;
+ }
+ #le5{
+    color: green;
+ }
+ #le6{
+    color: yellow;
+ }
+ #le7{
+    color: maroon;
+ }
+ #le8{
+    color: orange;
+ }
